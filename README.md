@@ -7,9 +7,9 @@ Open Source
 
 Research
 
-- Data denoising method: 
+- Data denoising method: https://github.com/atkirtland/denoising-clean
 - RLWE Smearing: https://github.com/atkirtland/rlwe-smearing
-- App for getting RGB value from camera: https://github.com/atkirtland/pad-analysis
+- App for getting RGB value from camera for chemistry project: https://github.com/atkirtland/pad-analysis
 
 Misc
 
@@ -17,6 +17,8 @@ Misc
 - Tile Launcher https://github.com/atkirtland/tile-launcher
 - Harry Potter Trivia Alexa Skill https://github.com/atkirtland/harry-potter-alexa-skill
 - Pac-man clone in Mathematica https://github.com/atkirtland/mathematica-pacman
+- Dialogflow Agent for SafeTrek https://github.com/atkirtland/safetrek-dialogflow
+- RoboAdvisor using Blackrock's API https://github.com/jamesylgan/RoboAdvisor
 
 <!--
 **atkirtland/atkirtland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
