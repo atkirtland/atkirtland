@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-Open Source
-
-- https://github.com/JuliaStats/Distributions.jl/pull/1563
-- https://github.com/sindresorhus/awesome/pull/2275
-
 Research
 
 - Data denoising method: https://github.com/atkirtland/denoising-clean
